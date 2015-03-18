@@ -2,7 +2,7 @@ using System;
 using System.Linq;
 using System.Collections.Generic;
 using System.Diagnostics;
-using Castle.Core.Interceptor;
+using Castle.DynamicProxy;
 
 namespace FluentSpec.Classes {
 

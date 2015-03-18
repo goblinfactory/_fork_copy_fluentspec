@@ -1,4 +1,4 @@
-using Castle.Core.Interceptor;
+using Castle.DynamicProxy;
 using FluentSpec.Classes;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
